@@ -22,7 +22,7 @@ This project provides a simulation environment for Industrial Internet of Things
 
 ```sh
 # Clone the repository
-git clone https://github.com/your-repo/iiot-simulations.git
+git clone https://github.com/iiot_simulation_lab04/iiot-simulations.git
 cd iiot-simulations
 
 # Install dependencies
